@@ -5,7 +5,7 @@ This is project is sample code for learning Metal
 
 ## Device and Commmands
 
-"[Device and Commmands]()" sample is to show the base usage of Metal.
+"Device and Commmands" sample is to show the base usage of Metal.
 
 
 ## Hello Triangle
